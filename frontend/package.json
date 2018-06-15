@@ -1,0 +1,33 @@
+{
+  "name": "front-end",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "add": "^2.0.6",
+    "axios": "^0.18.0",
+    "bootstrap": "3",
+    "lodash": "^4.17.10",
+    "moment": "^2.22.1",
+    "nuka-carousel": "^4.2.1",
+    "react": "^16.3.2",
+    "react-bootstrap": "^0.32.1",
+    "react-dom": "^16.3.2",
+    "react-moment": "^0.7.0",
+    "react-responsive": "^4.1.0",
+    "react-responsive-carousel": "^3.1.37",
+    "react-router-dom": "^4.2.2",
+    "react-scripts": "1.1.4",
+    "react-select": "^1.2.1",
+    "react-star-rating": "^1.4.2",
+    "react-star-rating-component": "^1.4.1",
+    "react-throttle": "^0.3.0",
+    "throttle-debounce": "^1.0.1",
+    "yarn": "^1.6.0"
+  },
+  "scripts": {
+    "start": " react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
